@@ -1,0 +1,18 @@
+#button1,#button2{
+
+  border-radius: 20px;
+  width: 100px;
+  height: 50px;
+  background-color: gray;
+  size: 40px;
+  margin-top: 50px;
+  margin-left: 300px;
+}
+#count{
+
+ 
+  
+  size: 40px;
+  margin-top: 90px;
+  margin-left: 330px;
+}
